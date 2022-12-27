@@ -1,0 +1,270 @@
+AUDI,A3 2.0 FSI,150,moyenne,5,5,noir,true,19950,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,noir,false,28500,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,rouge,false,28500,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,gris,true,19950,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,blanc,false,28500,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,blanc,true,19950,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,bleu,true,19950,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,bleu,false,28500,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,gris,false,28500,26.1,-2400.0,191.6,berline
+AUDI,A3 2.0 FSI,150,moyenne,5,5,rouge,true,19950,26.1,-2400.0,191.6,berline
+AUDI,A2 1.4,75,courte,5,5,noir,true,12817,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,bleu,false,18310,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,gris,false,18310,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,bleu,true,12817,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,gris,true,12817,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,noir,false,18310,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,rouge,false,18310,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,blanc,true,12817,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,rouge,true,12817,26.1,-2400.0,191.6,citadine
+AUDI,A2 1.4,75,courte,5,5,blanc,false,18310,26.1,-2400.0,191.6,citadine
+BMW,M5,507,tres longue,5,5,bleu,true,66360,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,gris,false,94800,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,blanc,false,94800,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,noir,false,94800,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,rouge,true,66360,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,blanc,true,66360,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,bleu,false,94800,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,gris,true,66360,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,rouge,false,94800,39.263157,-631.5789,80.52631,berline
+BMW,M5,507,tres longue,5,5,noir,true,66360,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,rouge,true,25060,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,bleu,false,35800,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,blanc,false,35800,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,gris,false,35800,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,rouge,false,35800,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,bleu,true,25060,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,gris,true,25060,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,noir,true,25060,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,blanc,true,25060,39.263157,-631.5789,80.52631,berline
+BMW,120i,150,moyenne,5,5,noir,false,35800,39.263157,-631.5789,80.52631,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,gris,false,37100,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,gris,true,25970,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,noir,true,25970,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,noir,false,37100,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100,0.0,-6000.0,271.0,berline
+JAGUAR,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100,0.0,-6000.0,271.0,berline
+KIA,Picanto 1.1,65,courte,5,5,blanc,false,8990,10.333333,-4000.0,157.66667,citadine
+KIA,Picanto 1.1,65,courte,5,5,gris,false,8990,10.333333,-4000.0,157.66667,citadine
+KIA,Picanto 1.1,65,courte,5,5,noir,false,8990,10.333333,-4000.0,157.66667,citadine
+KIA,Picanto 1.1,65,courte,5,5,rouge,false,8990,10.333333,-4000.0,157.66667,citadine
+KIA,Picanto 1.1,65,courte,5,5,bleu,false,8990,10.333333,-4000.0,157.66667,citadine
+MERCEDES,S500,306,tres longue,5,5,noir,true,70910,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,bleu,true,70910,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,rouge,true,70910,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,blanc,true,70910,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,bleu,false,101300,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,gris,true,70910,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,noir,false,101300,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,blanc,false,101300,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,rouge,false,101300,187.62712,7790.5864,749.9797,berline
+MERCEDES,S500,306,tres longue,5,5,gris,false,101300,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,blanc,false,25900,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,noir,false,25900,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,blanc,true,18130,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,rouge,true,18130,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,noir,true,18130,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,rouge,false,25900,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,bleu,true,18130,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,gris,true,18130,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,gris,false,25900,187.62712,7790.5864,749.9797,berline
+MERCEDES,A200,136,moyenne,5,5,bleu,false,25900,187.62712,7790.5864,749.9797,berline
+MINI,Copper 1.6 16V,115,courte,5,5,gris,true,12740,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,bleu,true,12740,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,rouge,true,12740,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,noir,true,12740,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,blanc,true,12740,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,gris,false,18200,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,bleu,false,18200,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,rouge,false,18200,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,noir,false,18200,21.5,-3000.0,126.0,citadine
+MINI,Copper 1.6 16V,115,courte,5,5,blanc,false,18200,21.5,-3000.0,126.0,citadine
+NISSAN,Primera 1.6,109,longue,5,5,noir,false,18650,160.0,5802.4,681.2,familiale
+NISSAN,Primera 1.6,109,longue,5,5,bleu,false,18650,160.0,5802.4,681.2,familiale
+NISSAN,Primera 1.6,109,longue,5,5,rouge,false,18650,160.0,5802.4,681.2,familiale
+NISSAN,Primera 1.6,109,longue,5,5,gris,false,18650,160.0,5802.4,681.2,familiale
+NISSAN,Primera 1.6,109,longue,5,5,blanc,false,18650,160.0,5802.4,681.2,familiale
+NISSAN,Maxima 3.0 V6,200,tres longue,5,5,noir,false,30000,160.0,5802.4,681.2,routiere
+NISSAN,Maxima 3.0 V6,200,tres longue,5,5,gris,false,30000,160.0,5802.4,681.2,routiere
+NISSAN,Maxima 3.0 V6,200,tres longue,5,5,bleu,false,30000,160.0,5802.4,681.2,routiere
+NISSAN,Maxima 3.0 V6,200,tres longue,5,5,rouge,false,30000,160.0,5802.4,681.2,routiere
+NISSAN,Maxima 3.0 V6,200,tres longue,5,5,blanc,false,30000,160.0,5802.4,681.2,routiere
+NISSAN,Almera 1.8,115,moyenne,5,5,gris,false,16450,160.0,5802.4,681.2,compacte
+NISSAN,Almera 1.8,115,moyenne,5,5,bleu,false,16450,160.0,5802.4,681.2,compacte
+NISSAN,Almera 1.8,115,moyenne,5,5,noir,false,16450,160.0,5802.4,681.2,compacte
+NISSAN,Almera 1.8,115,moyenne,5,5,rouge,false,16450,160.0,5802.4,681.2,compacte
+NISSAN,Almera 1.8,115,moyenne,5,5,blanc,false,16450,160.0,5802.4,681.2,compacte
+PEUGEOT,1007 1.4,75,courte,5,5,rouge,true,9625,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,noir,false,13750,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,gris,false,13750,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,blanc,true,9625,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,rouge,false,13750,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,gris,true,9625,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,blanc,false,13750,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,bleu,true,9625,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,noir,true,9625,15.833333,-3000.0,144.16667,citadine
+PEUGEOT,1007 1.4,75,courte,5,5,bleu,false,13750,15.833333,-3000.0,144.16667,citadine
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,gris,true,34440,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,noir,true,34440,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,bleu,true,34440,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,rouge,true,34440,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,blanc,true,34440,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,gris,false,49200,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,bleu,false,49200,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,blanc,false,49200,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,noir,false,49200,0.0,-6000.0,206.0,routiere
+RENAULT,Vel Satis 3.5 V6,245,tres longue,5,5,rouge,false,49200,0.0,-6000.0,206.0,routiere
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,gris,true,15644,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,rouge,true,15644,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,blanc,true,15644,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,bleu,false,22350,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350,0.0,-6000.0,206.0,berline
+RENAULT,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350,0.0,-6000.0,206.0,berline
+RENAULT,Laguna 2.0T,170,longue,5,5,rouge,true,19110,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,gris,true,19110,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,bleu,true,19110,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,blanc,true,19110,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,noir,true,19110,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,gris,false,27300,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,bleu,false,27300,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,rouge,false,27300,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,noir,false,27300,0.0,-6000.0,206.0,familiale
+RENAULT,Laguna 2.0T,170,longue,5,5,blanc,false,27300,0.0,-6000.0,206.0,familiale
+RENAULT,Espace 2.0T,165,longue,7,5,gris,true,21245,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,bleu,true,21245,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,noir,true,21245,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,rouge,true,21245,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,blanc,true,21245,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,noir,false,30350,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,bleu,false,30350,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,rouge,false,30350,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,blanc,false,30350,0.0,-6000.0,206.0,monospace
+RENAULT,Espace 2.0T,165,longue,7,5,gris,false,30350,0.0,-6000.0,206.0,monospace
+SKODA,Superb 2.8 V6,193,tres longue,5,5,rouge,false,31790,27.555555,-666.6667,98.888885,familiale
+SKODA,Superb 2.8 V6,193,tres longue,5,5,gris,false,31790,27.555555,-666.6667,98.888885,familiale
+SKODA,Superb 2.8 V6,193,tres longue,5,5,bleu,false,31790,27.555555,-666.6667,98.888885,familiale
+SKODA,Superb 2.8 V6,193,tres longue,5,5,noir,false,31790,27.555555,-666.6667,98.888885,familiale
+SKODA,Superb 2.8 V6,193,tres longue,5,5,blanc,false,31790,27.555555,-666.6667,98.888885,familiale
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,rouge,false,27340,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,gris,true,19138,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,bleu,true,19138,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,gris,false,27340,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,bleu,false,27340,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,blanc,true,19138,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,noir,true,19138,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,rouge,true,19138,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,blanc,false,27340,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Touran 2.0 FSI,150,longue,7,5,noir,false,27340,23.428572,-1714.2858,96.0,monospace
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,blanc,true,8540,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,blanc,false,12200,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,noir,false,12200,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,noir,true,8540,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,bleu,true,8540,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,bleu,false,12200,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,rouge,true,8540,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,rouge,false,12200,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,gris,false,12200,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,Polo 1.2 6V,55,courte,5,3,gris,true,8540,23.428572,-1714.2858,96.0,citadine
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,blanc,true,18641,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,noir,true,18641,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,rouge,true,18641,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,gris,true,18641,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,bleu,true,18641,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,rouge,false,26630,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,gris,false,26630,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,bleu,false,26630,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,blanc,false,26630,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,New Beatle 1.8,110,moyenne,5,5,noir,false,26630,23.428572,-1714.2858,96.0,berline
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,rouge,true,16029,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,gris,true,16029,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,bleu,true,16029,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,blanc,true,16029,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900,23.428572,-1714.2858,96.0,sportive
+VOLKSWAGEN,Golf 2.0 FSI,150,moyenne,5,5,gris,false,22900,23.428572,-1714.2858,96.0,sportive
+VOLVO,S80 T6,272,tres longue,5,5,blanc,false,50500,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,noir,false,50500,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,rouge,false,50500,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,gris,true,35350,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,bleu,true,35350,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,gris,false,50500,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,bleu,false,50500,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,rouge,true,35350,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,blanc,true,35350,42.454544,0.0,72.72727,berline
+VOLVO,S80 T6,272,tres longue,5,5,noir,true,35350,42.454544,0.0,72.72727,berline
+SEAT,Toledo 1.6,102,longue,5,5,blanc,false,18880,39.7327,-1764.5247,199.12373,berline
+SEAT,Toledo 1.6,102,longue,5,5,noir,false,18880,39.7327,-1764.5247,199.12373,berline
+SEAT,Toledo 1.6,102,longue,5,5,rouge,false,18880,39.7327,-1764.5247,199.12373,berline
+SEAT,Toledo 1.6,102,longue,5,5,gris,false,18880,39.7327,-1764.5247,199.12373,berline
+SEAT,Toledo 1.6,102,longue,5,5,bleu,false,18880,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,blanc,true,27020,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,rouge,true,27020,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,gris,true,27020,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,bleu,true,27020,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,noir,true,27020,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,gris,false,38600,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,bleu,false,38600,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,noir,false,38600,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,rouge,false,38600,39.7327,-1764.5247,199.12373,berline
+SAAB,9.3 1.8T,150,longue,5,5,blanc,false,38600,39.7327,-1764.5247,199.12373,berline
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,rouge,false,13500,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,bleu,true,9450,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,gris,false,13500,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,bleu,false,13500,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,noir,false,13500,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,rouge,true,9450,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,gris,true,9450,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,blanc,false,13500,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,blanc,true,9450,39.7327,-1764.5247,199.12373,citadine
+LANCIA,Ypsilon 1.4 16V,90,courte,5,3,noir,true,9450,39.7327,-1764.5247,199.12373,citadine
+HYUNDAI,Matrix 1.6,103,longue,7,5,bleu,false,15960,39.7327,-1764.5247,199.12373,monospace
+HYUNDAI,Matrix 1.6,103,longue,7,5,blanc,false,15960,39.7327,-1764.5247,199.12373,monospace
+HYUNDAI,Matrix 1.6,103,longue,7,5,gris,false,15960,39.7327,-1764.5247,199.12373,monospace
+HYUNDAI,Matrix 1.6,103,longue,7,5,noir,false,15960,39.7327,-1764.5247,199.12373,monospace
+HYUNDAI,Matrix 1.6,103,longue,7,5,rouge,false,15960,39.7327,-1764.5247,199.12373,monospace
+HONDA,FR-V 1.7,125,longue,7,5,noir,false,19550,39.7327,-1764.5247,199.12373,monospace
+HONDA,FR-V 1.7,125,longue,7,5,bleu,false,19550,39.7327,-1764.5247,199.12373,monospace
+HONDA,FR-V 1.7,125,longue,7,5,gris,false,19550,39.7327,-1764.5247,199.12373,monospace
+HONDA,FR-V 1.7,125,longue,7,5,blanc,false,19550,39.7327,-1764.5247,199.12373,monospace
+HONDA,FR-V 1.7,125,longue,7,5,rouge,false,19550,39.7327,-1764.5247,199.12373,monospace
+FORD,Mondeo 1.8,125,longue,5,5,blanc,true,16730,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,gris,true,16730,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,bleu,true,16730,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,noir,true,16730,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,rouge,true,16730,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,bleu,false,23900,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,blanc,false,23900,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,noir,false,23900,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,gris,false,23900,39.7327,-1764.5247,199.12373,familiale
+FORD,Mondeo 1.8,125,longue,5,5,rouge,false,23900,39.7327,-1764.5247,199.12373,familiale
+FIAT,Croma 2.2,147,longue,5,5,blanc,true,17346,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,bleu,true,17346,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,rouge,true,17346,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,gris,true,17346,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,rouge,false,24780,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,bleu,false,24780,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,noir,true,17346,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,blanc,false,24780,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,noir,false,24780,39.7327,-1764.5247,199.12373,berline
+FIAT,Croma 2.2,147,longue,5,5,gris,false,24780,39.7327,-1764.5247,199.12373,berline
+DAIHATSU,Cuore 1.0,58,courte,5,3,noir,false,8850,39.7327,-1764.5247,199.12373,berline
+DAIHATSU,Cuore 1.0,58,courte,5,3,blanc,false,8850,39.7327,-1764.5247,199.12373,berline
+DAIHATSU,Cuore 1.0,58,courte,5,3,rouge,false,8850,39.7327,-1764.5247,199.12373,berline
+DAIHATSU,Cuore 1.0,58,courte,5,3,bleu,false,8850,39.7327,-1764.5247,199.12373,berline
+DAIHATSU,Cuore 1.0,58,courte,5,3,gris,false,8850,39.7327,-1764.5247,199.12373,berline
+DACIA,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500,39.7327,-1764.5247,199.12373,berline
+DACIA,Logan 1.6 MPI,90,moyenne,5,5,rouge,false,7500,39.7327,-1764.5247,199.12373,berline
+DACIA,Logan 1.6 MPI,90,moyenne,5,5,noir,false,7500,39.7327,-1764.5247,199.12373,berline
+DACIA,Logan 1.6 MPI,90,moyenne,5,5,gris,false,7500,39.7327,-1764.5247,199.12373,berline
+DACIA,Logan 1.6 MPI,90,moyenne,5,5,bleu,false,7500,39.7327,-1764.5247,199.12373,berline

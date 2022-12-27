@@ -15,7 +15,7 @@ services:
     container_name: mongodb
     ports:
       - '27017:27017'
-    image: mongo
+    image: mongo:latest
 
   namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
