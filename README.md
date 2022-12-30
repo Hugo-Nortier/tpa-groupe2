@@ -42,7 +42,7 @@ La première ligne de docker.sh supprime les containers qui seraient eventuellem
 ### Vérifications
 **hive**
 ```sh
-docker-compose exec hive-server bash
+docker compose exec hive-server bash
 /opt/hive/bin/beeline -u jdbc:hive2://localhost:10000
 ```
 **mongo**
