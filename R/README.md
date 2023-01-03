@@ -1,4 +1,4 @@
-# Data visualisation
+# R
 ## Introduction
 Ceci est le code source de la partie R du projet TPA pour le groupe 2.
 ## Version locale
