@@ -53,3 +53,11 @@ docker exec -it mongo mongosh
 ```sh
 docker run --rm -it --network cassandra nuvo/docker-cqlsh cqlsh cassandra 9042 --cqlversion='3.4.0'
 ```
+
+### Effectuer des rêquetes vers le data lake
+Vous poucez utiliser prestoDB pour effectuer des rêquetes SQL vers Hive.  
+Pour cela, il faudra utiliser le `presto.jar` se trouvant à la racine.  
+```
+presto.jar --server localhost:8080 --catalog hive --schema default
+presto> select * from catalogue;
+```
