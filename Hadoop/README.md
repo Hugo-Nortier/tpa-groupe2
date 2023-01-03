@@ -1,4 +1,4 @@
-# Data visualisation
+# Hadoop
 ## Introduction
 Ceci est le code source de la partie hadoop du projet TPA pour le groupe 2.
 
