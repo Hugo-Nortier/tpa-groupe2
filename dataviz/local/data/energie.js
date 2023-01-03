@@ -1,0 +1,2 @@
+const energie =
+    { "data": [[10], [75], [40], [85], [15], [45], [0]], "columns": [{ "name": "_col0", "type": "bigint", "typeSignature": { "rawType": "bigint", "typeArguments": [], "literalArguments": [], "arguments": [] } }] }
