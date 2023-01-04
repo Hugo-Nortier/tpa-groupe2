@@ -4,11 +4,10 @@
 ## Execution
  Chaque dossier correspond à chaque partie du tpa.  
  Pour chaque commande à éxecuter d'une partie précise, il faut l'exécuter à la racine de cette partie et non à la racine du git.  
- Exemple: ```sh etl.sh``` doit être exécuter dans le dossier Big_data.
+ Exemple: la commande```sh etl.sh``` doit être exécutée dans le dossier Big_data.
  ## Contributeurs
  AGREBI Jihene  
  AHMED Saad El Din  
  BEN EL BEY Yessine  
  NORTIER Hugo
  
-
