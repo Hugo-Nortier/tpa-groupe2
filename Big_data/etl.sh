@@ -16,4 +16,4 @@ docker cp ${MONPATH}/M2_DMA_Clients_10/Clients_9_new.csv $(docker ps -aqf "name=
 docker cp ${MONPATH}/M2_DMA_Marketing/Marketing_new.csv $(docker ps -aqf "name=hive-server"):/Marketing_new.csv;
 
 # run l'écriture dans hdfs
-etl/hdfs_run.sh;
+etl/hive_run.sh;
